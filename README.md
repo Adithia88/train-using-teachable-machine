@@ -2,7 +2,7 @@
 
 This is an implementation of image classification using Teachable machine learning.
 
-![Image Classification Sample](assets/1.PNG)
+![testing evaluation](assets/6.PNG)
 
 Dataset (Train) : https://drive.google.com/drive/folders/1OZChEqrCwlTKolwT69ExNPnA_CtBkmNo?usp=sharing
 
