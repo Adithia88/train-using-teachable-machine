@@ -15,7 +15,6 @@ The repository includes:
 # Getting Started
 Download this repo and dataset too, if u want use this dataset
 * start from making image classification models using teachable machine learning 
-* deploy on mobile phone
 
 additional info :
 teachable machine is algorithm to make model easy based on web ( https://teachablemachine.withgoogle.com/train/image )
